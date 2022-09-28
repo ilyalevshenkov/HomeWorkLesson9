@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/bin/Debug/net6.0/Ex66.1
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/bin/Debug/net6.0/Ex66.1.deps.json
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/bin/Debug/net6.0/Ex66.1.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/bin/Debug/net6.0/Ex66.1.dll
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/bin/Debug/net6.0/Ex66.1.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.dll
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/refint/Ex66.1.dll
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/Ex66.1.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex66.1/obj/Debug/net6.0/ref/Ex66.1.dll
