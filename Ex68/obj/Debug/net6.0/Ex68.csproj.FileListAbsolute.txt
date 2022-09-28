@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/bin/Debug/net6.0/Ex68
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/bin/Debug/net6.0/Ex68.deps.json
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/bin/Debug/net6.0/Ex68.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/bin/Debug/net6.0/Ex68.dll
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/bin/Debug/net6.0/Ex68.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.dll
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/refint/Ex68.dll
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/Ex68.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/_IT /Lesson9/Ex/Ex68/obj/Debug/net6.0/ref/Ex68.dll
